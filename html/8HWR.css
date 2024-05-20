@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.navbar {
+    background-color: skyblue;
+    /* height: 50px; */
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+a{
+    padding-left: 10px;
+}
+.navbar1{
+    height: 50px;
+    background-color: yellow;
+    /* display: flex;
+    align-items: center; */
+    line-height: 50px;
+
+}
+.t1{
+    margin-left: 65%;
+}
+.t2{
+    text-align: center;
+    /* background-color: blue; */
+}

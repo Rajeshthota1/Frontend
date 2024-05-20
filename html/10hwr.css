@@ -1,0 +1,174 @@
+.t1 {
+    text-decoration: underline;
+    text-underli ne-offset: 10px;
+}
+
+a {
+    padding-left: 10px;
+    margin-left: 50px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.t2 {
+    text-align: center;
+    font-size: large;
+}
+
+.t3 {
+    border: 1px solid rgb(93, 104, 76);
+    height: 250px;
+    width: 350px;
+    background-image: url(./images/pexels-craig-adderley-1563355.jpg);
+    background-size: cover;
+    position: relative;
+    left: 120px;
+}
+
+.t4 {
+    margin-top: 120px;
+    color: rgb(178, 250, 9);
+    font-size: larger;
+}
+
+.t5 {
+    border: 1px solid rgb(93, 104, 76);
+    height: 250px;
+    width: 350px;
+    background-image: url(./images/pexels-julian-jagtenberg-103123.jpg);
+    background-size: cover;
+    margin-left: 370px;
+    position: absolute;
+    top: 280px;
+    left: 200px;
+}
+
+.t6 {
+    margin-top: 120px;
+    color: blue;
+    font-size: larger;
+}
+
+.t7 {
+    border: 1px solid rgb(93, 104, 76);
+    height: 250px;
+    width: 350px;
+    background-image: url(./images/OIP.jpeg);
+    background-size: cover;
+    margin-left: 740px;
+    position: absolute;
+    top: 280px;
+    left: 280px;
+}
+
+.t8 {
+    color: rgb(200, 255, 0);
+    margin-top: 120px;
+    font-size: larger;
+}
+
+.h1 {
+    border: 1px solid gb(17, 17, 17);
+    height: 150px;
+    width: 1250px;
+    margin-left: 120px;
+    background-color: aliceblue;
+}
+
+.h2 {
+    margin-left: 50px;
+}
+
+.h3 {
+    margin-left: 50px;
+}
+
+.h4 {
+    border: 1px solid black;
+    height: 280px;
+    width: 400px;
+    background-image: url(./images/240_F_733615517_xZ3DHUcLPLvZiLutdcEp8biulWZNb9sk.jpg);
+    margin-left: 120px;
+    background-size: cover;
+}
+
+.h5 {
+    color: rgb(49, 248, 9);
+    margin-top: 120px;
+}
+
+.h6 {
+    border: 1px solid black;
+    height: 280px;
+    width: 600px;
+    background-image: url(./images/pexels-julian-jagtenberg-103123.jpg);
+    margin-left: 600px;
+    background-size: cover;
+    bottom: 100px;
+    position: relative;
+    bottom: 280px;
+}
+
+.h7 {
+    color: rgb(250, 7, 7);
+    margin-top: 150px;
+}
+
+.o1 {
+    border: px solid black;
+    height: 150px;
+    width: 1250px;
+    margin-left: 120px;
+    background-color: aliceblue;
+    position: relative;
+    bottom: 260px;
+}
+
+.o2 {
+    margin-left: 50px;
+}
+
+.o3 {
+    margin-left: 50px;
+}
+
+.o4 {
+    border: 1px solid black;
+    height: 600px;
+    width: 1283px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 240px;
+    background-image: url(./images/pexels-craig-adderley-1563355.jpg);
+    /* background-size: cover; */
+}
+.o5{
+    /* border:1px solid rgb(5, 5, 5); */
+    height: 500px;
+    width: 1000px;
+    margin-left: 140px;
+    margin-top: 50px;
+    background-color: white;
+}
+.o6{
+    font-size: larger;
+    margin-top: 50px;
+}
+.o8{
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+
+
+
+button{
+    color: rgb(255, 115, 0);
+    font-size: larger;
+    margin-top: 250px;
+    background-color: black;
+    border-radius: 10px;
+}

@@ -1,0 +1,70 @@
+.navbar {
+    background-color: black;
+    height: 50px;
+    padding: 15px;
+}
+
+li {
+    text-decoration: none;
+    display: inline;
+    margin-left: 50px;
+}
+
+.one {
+    margin-left: 260px;
+}
+
+.two {
+    margin-left: 150px;
+}
+
+.three {
+    margin-left: 50px;
+}
+
+.container1 {
+    margin-left: 800px;
+    position: relative;
+    bottom: 230px;
+}
+
+.four {
+    margin-left: 200px;
+}
+
+.five {
+    margin-left: 90px;
+    font-size: x-large;
+}
+
+.container2 {
+    margin-left: 50px;
+    position: relative;
+    bottom: 180px;
+
+}
+
+.six {
+    margin-left: 200px;
+}
+
+.seven {
+    font-size: x-large;
+    margin-left: 160px;
+}
+
+.container3 {
+    margin-left: 800px;
+    position: relative;
+    bottom: 400px;
+}
+
+h4 {
+    font-size: xx-large;
+    margin-left: 150px;
+    
+}
+.eight{
+    margin-left: 190px;
+
+}
